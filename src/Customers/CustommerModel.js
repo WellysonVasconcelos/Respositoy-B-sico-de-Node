@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 const sequelize = new Sequelize(
-    "postgres://postgres:lorena25@localhost:5432/dvdrental",
+    "postgres://postgres:julio002@localhost:5432/dvdrental",
     {
         define:{
             freezeTableName: true,
